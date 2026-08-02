@@ -26,12 +26,12 @@
 <circle class="dot" cx="50" cy="18" r="5" fill="#27c93f"/>
 <text class="title-text" x="230.0" y="22" text-anchor="middle">2xx0 — neofetch</text>
 <line x1="16" y1="44" x2="444" y2="44" stroke="#30363d" stroke-width="1"/>
-<g class="line" style="animation-delay:0.00s"><text class="key" x="24" y="58">user</text><text class="val" x="110" y="58">2xx0@github</text></g>
+<g class="line" style="animation-delay:0.00s"><text class="key" x="24" y="58">user</text><text class="val" x="110" y="58">Mohammed Sholy (nexo)</text></g>
 <g class="line" style="animation-delay:0.09s"><text class="key" x="24" y="84">role</text><text class="val" x="110" y="84">Data Analysis &amp; AI Student</text></g>
-<g class="line" style="animation-delay:0.18s"><text class="key" x="24" y="110">uni</text><text class="val" x="110" y="110">Al-Asfar Al-Ulya University (2025-2027)</text></g>
-<g class="line" style="animation-delay:0.27s"><text class="key" x="24" y="136">stack</text><text class="val" x="110" y="136">Python | SQL | Pandas | scikit-learn</text></g>
-<g class="line" style="animation-delay:0.36s"><text class="key" x="24" y="162">tools</text><text class="val" x="110" y="162">GPT-4o-mini | Claude API | Gemini API</text></g>
-<g class="line" style="animation-delay:0.45s"><text class="key" x="24" y="188">focus</text><text class="val" x="110" y="188">ML pipelines, LLM-powered tools, data viz</text></g>
-<g class="line" style="animation-delay:0.54s"><text class="key" x="24" y="214">builds</text><text class="val" x="110" y="214">Moodle AI Assistant, Multi-LLM Discord Bot</text></g>
-<g class="line" style="animation-delay:0.63s"><text class="key" x="24" y="240">status</text><text class="val" x="110" y="240">Open to Data / AI internships</text></g>
+<g class="line" style="animation-delay:0.18s"><text class="key" x="24" y="110">uni</text><text class="val" x="110" y="110">Amman Arab University (2025-2029)</text></g>
+<g class="line" style="animation-delay:0.27s"><text class="key" x="24" y="136">stack</text><text class="val" x="110" y="136">Python | Java | C++ | React</text></g>
+<g class="line" style="animation-delay:0.36s"><text class="key" x="24" y="162">tools</text><text class="val" x="110" y="162">ChatGPT | Gemini | Claude | Grok | Burp Suite</text></g>
+<g class="line" style="animation-delay:0.45s"><text class="key" x="24" y="188">focus</text><text class="val" x="110" y="188">API reverse engineering, browser automation, data analysis</text></g>
+<g class="line" style="animation-delay:0.54s"><text class="key" x="24" y="214">builds</text><text class="val" x="110" y="214">Moodle AI Assistant, Multi-LLM Discord Bot, API research tools</text></g>
+<g class="line" style="animation-delay:0.63s"><text class="key" x="24" y="240">status</text><text class="val" x="110" y="240">Focused on studies right now — open later</text></g>
 </svg>

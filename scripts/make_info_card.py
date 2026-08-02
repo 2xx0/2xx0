@@ -17,14 +17,14 @@ DIM = "#6e7681"
 TITLE_BAR = "#21262d"
 
 ROWS = [
-    ("user", "2xx0@github"),
+    ("user", "Mohammed Sholy (nexo)"),
     ("role", "Data Analysis & AI Student"),
-    ("uni", "Al-Asfar Al-Ulya University (2025-2027)"),
-    ("stack", "Python | SQL | Pandas | scikit-learn"),
-    ("tools", "GPT-4o-mini | Claude API | Gemini API"),
-    ("focus", "ML pipelines, LLM-powered tools, data viz"),
-    ("builds", "Moodle AI Assistant, Multi-LLM Discord Bot"),
-    ("status", "Open to Data / AI internships"),
+    ("uni", "Amman Arab University (2025-2029)"),
+    ("stack", "Python | Java | C++ | React"),
+    ("tools", "ChatGPT | Gemini | Claude | Grok | Burp Suite"),
+    ("focus", "API reverse engineering, browser automation, data analysis"),
+    ("builds", "Moodle AI Assistant, Multi-LLM Discord Bot, API research tools"),
+    ("status", "Focused on studies right now — open later"),
 ]
 
 WIDTH = 460
