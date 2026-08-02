@@ -1,0 +1,22 @@
+<svg viewBox="0 0 244 122" width="244" height="122" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, Menlo, monospace">
+
+    <style>
+      .bg { fill: #0d1117; }
+      .row { fill: #39d353; font-size: 16px; white-space: pre; }
+      .cursor { fill: #39d353; }
+      .clip-row {
+        animation: wipe-in 0.5s steps(40, end) forwards;
+      }
+      @keyframes wipe-in {
+        from { clip-path: inset(0 100% 0 0); }
+        to   { clip-path: inset(0 0 0 0); }
+      }
+    </style>
+    
+<rect class="bg" x="0" y="0" width="244" height="122" rx="8"/>
+<g class="clip-row" style="animation-delay:0.00s"><text class="row" x="12" y="24">   ___             ____ </text></g>
+<g class="clip-row" style="animation-delay:0.09s"><text class="row" x="12" y="42">  |__ \ _  ___  __/ __ \</text></g>
+<g class="clip-row" style="animation-delay:0.18s"><text class="row" x="12" y="60">  __/ /| |/_/ |/_/ / / /</text></g>
+<g class="clip-row" style="animation-delay:0.27s"><text class="row" x="12" y="78"> / __/_&gt;  &lt;_&gt;  &lt;/ /_/ / </text></g>
+<g class="clip-row" style="animation-delay:0.36s"><text class="row" x="12" y="96">/____/_/|_/_/|_|\____/  </text></g>
+</svg>
